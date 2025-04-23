@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "data_explore": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "C:\\Users\\AdnaanJaneesBISTECGl\\mcp-server-data-exploration\\src\\mcp_server_ds",
+                "run",
+                "mcp-server-ds"
+            ]
+        }
+    }
+  }
